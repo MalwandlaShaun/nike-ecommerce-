@@ -4,15 +4,8 @@
 
 
 
-# Video
-https://youtu.be/vhnFcb4cf7I
-
-
 # HOMEPAGE
 <img src='/images/NikeSite.png'/>
-
-
-### :link:link : https://nike-shoe-store.netlify.app/
 
 
 ## Features
@@ -23,11 +16,6 @@ https://youtu.be/vhnFcb4cf7I
 - Form Validation
 - Accessibility Optimized
 - Mobile Responsive
-
-## Run Locally 
-
-- Run this command `git clone https://github.com/developer-junaid/Nike-Shoe-Store.git`
-- You are now in the dev environment and you can play around 
 
 ## Tech Stack
 
